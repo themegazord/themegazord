@@ -1,3 +1,7 @@
+![version](https://img.shields.io/badge/version-30.05.2022-informational)  &nbsp;
+[![GitHub](https://img.shields.io/github/followers/themegazord?label=follow&style=social)](https://github.com/themegazord)&nbsp;
+
+
 ### Oiii pessoal 👋
 
 - #####  Meu nome é Gustavo de Camargo Campos, 22 anos
