@@ -2,7 +2,7 @@
 [![GitHub](https://img.shields.io/github/followers/themegazord?label=follow&style=social)](https://github.com/themegazord)&nbsp;
 
 
-### Oiii pessoal 👋
+### Oii pessoal 👋
 
 - #####  Meu nome é Gustavo de Camargo Campos, 22 anos
 - ##### Dev Back-end Python/Django
