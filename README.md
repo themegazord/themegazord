@@ -1,11 +1,11 @@
-![version](https://img.shields.io/badge/version-14.06.2022-informational)  &nbsp;
+![version](https://img.shields.io/badge/version-12.08.2022-informational)  &nbsp;
 [![GitHub](https://img.shields.io/github/followers/themegazord?label=follow&style=social)](https://github.com/themegazord)&nbsp;
 
 
 ### Oii pessoal 👋
 
 - #####  Meu nome é Gustavo de Camargo Campos, 22 anos
-- ##### Dev Back-end Python/Django
+- ##### Dev Full-Stack
 - ##### CEO e Fundador da MegaDEV Soluções Tecnológicas
 - ##### Aceita um copo de café? 
 
@@ -22,10 +22,12 @@
   <td>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </td>
   <td>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/Django Rest Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   </td>
   <td>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
