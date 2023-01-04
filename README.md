@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-01/11/2022-informational)  &nbsp;
+![version](https://img.shields.io/badge/version-03/01/2023-informational)  &nbsp;
 [![GitHub](https://img.shields.io/github/followers/themegazord?label=follow&style=social)](https://github.com/themegazord)&nbsp;
 
 
@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/Django Rest Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   </td>
   <td>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
