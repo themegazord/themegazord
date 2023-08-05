@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-28/07/2023-informational)  &nbsp;
+![version](https://img.shields.io/badge/version-05/08/2023-informational)  &nbsp;
 [![GitHub](https://img.shields.io/github/followers/themegazord?label=follow&style=social)](https://github.com/themegazord)&nbsp;
 
 
@@ -55,6 +55,29 @@
 
 
 </br>
+
+
+<div>
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=themegazord&count_private=true&show_icons=true&theme=tokyonight)
+
+
+</div>
+
+<div>
+
+<h2  style="font-weight: bold">&#x1f4c8; Github stats</h2>
+
+  
+
+<img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=themegazord&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+
+<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=themegazord&theme=tokyonight" /></p>
+
+  
+
+</div>
+
 
 ---
 
