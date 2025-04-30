@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/versão-04/04/2025-informational) &nbsp;  
+![version](https://img.shields.io/badge/versão-30/04/2025-informational) &nbsp;  
 [![GitHub](https://img.shields.io/github/followers/themegazord?label=follow&style=social)](https://github.com/themegazord) &nbsp;
 
 # 👋 E aí! Seja bem-vindo(a)!
